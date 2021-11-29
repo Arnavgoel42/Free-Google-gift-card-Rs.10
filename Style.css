@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(37, 9, 37);
+    color: white;
+    height: 65px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+}
+
+.box{
+    border: 27px solid black;
+    font-size: 70vmax;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gameinfo h1{
+    font-size: 50.7rem;
+}
