@@ -116,3 +116,10 @@ nav ul{
         grid-template-columns: repeat(3, 20vw);
     }
 }
+
+@media  only screen and (width:720px) {
+    .webcast{
+        width: 400px !important;
+        height: 200px !important;
+    }
+}
